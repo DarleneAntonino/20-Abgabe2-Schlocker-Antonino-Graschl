@@ -14,7 +14,7 @@ MARKDOWN:
 x - First Meeting
 x - creating a Markdown
 x - creating a ReadMe
-o - writing the Pom.xml
+x - writing the Pom.xml
 x - initialising the Labrabort (Google Doc)
 x - changing our profile pictures
 o - Second Meeting
