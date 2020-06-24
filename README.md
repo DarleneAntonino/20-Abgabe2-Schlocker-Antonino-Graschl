@@ -10,11 +10,11 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 7. Everyone will record her progress in the Labreport (GoogleDoc).
 
 
-MARKDOWN:
-x - First Meeting
-x - creating a Markdown
-x - creating a ReadMe
-x - writing the Pom.xml
-x - initialising the Labrabort (Google Doc)
-x - changing our profile pictures
-o - Second Meeting
+###### MARKDOWN:
+- [x] First Meeting
+- [x] creating a Markdown
+- [x] creating a ReadMe
+- [x] writing the Pom.xml
+- [x] initialising the Labrabort (Google Doc)
+- [x] changing our profile pictures
+- [ ] Second Meeting
