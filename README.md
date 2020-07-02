@@ -17,4 +17,8 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 - [x] writing the Pom.xml
 - [x] initialising the Labrabort (Google Doc)
 - [x] changing our profile pictures
-- [ ] Second Meeting
+- [x] Second Meeting
+- [x] looking for and correcting the mistakes
+- [ ] implementing the tests
+- [ ] finishing the LabReport
+- [ ] implementing the generics class
