@@ -1,3 +1,5 @@
+package at.fhj.iit;
+
 class Generics<T> {
 
     /**
