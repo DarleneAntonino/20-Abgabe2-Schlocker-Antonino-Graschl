@@ -8,7 +8,7 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 5. We will look for errors and/or mistakes in the code provided by our professor.
 6. We will devide the tests to implement between each other so everybody has to implement some.
 7. Everyone will record her progress in the Labreport (GoogleDoc).
-
+8. Blablablabla Schoki ist wunderbar
 
 ###### MARKDOWN:
 - [x] First Meeting
