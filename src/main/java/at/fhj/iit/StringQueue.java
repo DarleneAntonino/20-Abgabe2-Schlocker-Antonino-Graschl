@@ -16,8 +16,9 @@ public class StringQueue implements IQueue {
   public StringQueue(int maxsize) {
     maxSize = maxSize;
   }
-  maxSize = maxSize; bewirkt nichts. Abgesehen davon, dass es sich hier um einen Konstruktor handelt, muss die Vaiable also mit this.xyz beginnen.
-  Der Wert, welcher zugewisen werden sollte, sollte außerdem ein kleines "s" beinhalten.
+  
+  maxSize = maxSize; does nothing. Also, since this is a constructor, it every attribut should start with a "this." followed by the attributes name.
+  Additionally, the valuename is "maxsize" with a lowercase 's'.
 */
   
     public StringQueue(int maxsize) {
@@ -34,6 +35,7 @@ public class StringQueue implements IQueue {
     return true;
   }
 
+  /*
   @Override
   public String poll() {
     String element = peek();
@@ -44,7 +46,21 @@ public class StringQueue implements IQueue {
 
     return element;
   }
+  
+  This is a simple mistake. If the size of the list equals 0, you cannot remove the first element. It would result in a OOB Error.
+  But since (in this specific case) it does not matter, if the size is greater than or not equals 0, we chose greater than.
+*/
+    @Override
+  public String poll() {
+    String element = peek();
 
+    if (elements.size() > 0) {
+      elements.remove(0);
+    }
+
+    return element;
+  }
+  /*
   @Override
   public String remove() {
     String element = poll();
@@ -54,7 +70,19 @@ public class StringQueue implements IQueue {
 
     return element;
   }
+  
+  Here is the problem the line "element = "";", because it makes the previous line (String element = poll();) useless.
+*/
+  
+    @Override
+  public String remove() {
+    String element = poll();
+    if (element == null)
+      throw new NoSuchElementException("there's no element any more");
 
+    return element;
+  }
+  
   @Override
   public String peek() {
     String element;
