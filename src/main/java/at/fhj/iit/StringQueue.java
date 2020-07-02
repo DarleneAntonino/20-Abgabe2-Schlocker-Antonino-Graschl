@@ -12,11 +12,18 @@ public class StringQueue implements IQueue {
 
   private List<String> elements = new ArrayList<String>();
   private int maxSize = 5;
-
+/*
   public StringQueue(int maxsize) {
     maxSize = maxSize;
   }
-
+  maxSize = maxSize; bewirkt nichts. Abgesehen davon, dass es sich hier um einen Konstruktor handelt, muss die Vaiable also mit this.xyz beginnen.
+  Der Wert, welcher zugewisen werden sollte, sollte außerdem ein kleines "s" beinhalten.
+*/
+  
+    public StringQueue(int maxsize) {
+    this.maxSize = maxsize;
+  }
+  
   @Override
   public boolean offer(String obj) {
     if (elements.size() != maxSize)
