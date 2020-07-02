@@ -1,7 +1,7 @@
 class Generics<T> {
 
     /**
-     *
+     *name for the generic T
      */
     private T t;
 
