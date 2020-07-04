@@ -9,6 +9,9 @@ import org.junit.jupiter.api.Test;
 
 /**
  * Class testing the function of the StringQueue Constructors using JUnit tests.
+ * 
+ * @author Sarah Graschl
+ * @since  03.07.2020
  */
 
 class StringQueueTest {
