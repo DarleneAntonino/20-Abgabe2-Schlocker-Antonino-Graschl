@@ -1,7 +1,7 @@
 # Queue
 ## What is a Queue?
 
-<<a href="https://pixabay.com/users/RichardMc-1834381/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2317143">Richard Mcall</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2317143">Pixabay</a>>
+<https://cdn.pixabay.com/photo/2018/03/11/15/35/duck-3217049_1280.jpg>
 
 In a queue we can only exzesse the first and last object. It is like a pearl of strings, you can only remove or add elements on the end or beginning. A Queue works with the FIFO System. First in first out. 
 
