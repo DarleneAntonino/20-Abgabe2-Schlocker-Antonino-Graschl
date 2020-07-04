@@ -22,4 +22,4 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 - [x] implementing the tests
 - [x] finishing the LabReport
 - [x] implementing the generics class
-- [ ] correction mistakes
+- [ ] correcting mistakes
