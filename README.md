@@ -19,6 +19,7 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 - [x] changing our profile pictures
 - [x] Second Meeting
 - [x] looking for and correcting the mistakes
-- [ ] implementing the tests
-- [ ] finishing the LabReport
-- [ ] implementing the generics class
+- [x] implementing the tests
+- [x] finishing the LabReport
+- [x] implementing the generics class
+- [ ] correction mistakes
