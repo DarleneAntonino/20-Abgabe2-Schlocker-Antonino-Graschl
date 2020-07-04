@@ -26,19 +26,19 @@
          	  <item name="Maven" href="https://maven.apache.org"/>
 	  </links>
 	  
-	  <developer>
-		  <developer>
-			  <id>DarleneAntonino</id>
-     	 	  <name>Darlene Antonino</name>
-		  </developer>
-		  <developer>
-			   <id>SarahGraschl</id>
-			   <name>Sarah Graschl</name>
-		  </developer>
-		  <developer>
-			  <id>ViolaSchlocker</id>
-     		  <name>Viola Schlocker</name>
-		  </developer>
-	  </developer>
+	  <authors>
+		  <author>
+			<id>DarleneAntonino</id>
+     	 	  	<name>Darlene Antonino</name>
+		  </author>
+		  <author>
+			<id>SarahGraschl</id>
+		   	<name>Sarah Graschl</name>
+		  </author>
+		  <author>
+			<id>ViolaSchlocker</id>
+     		 	<name>Viola Schlocker</name>
+		  </author>
+	  </authors>
   </body>
 </project>
