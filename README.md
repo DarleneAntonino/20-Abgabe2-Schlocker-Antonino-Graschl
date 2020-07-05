@@ -7,7 +7,8 @@ This is our second submission for the lecture 'Kofigurationsmanagement'
 4. We will use a class from our last project.
 5. We will look for errors and/or mistakes in the code provided by our professor.
 6. We will devide the tests to implement between each other so everybody has to implement some.
-7. Everyone will record her progress in the Labreport (GoogleDoc).
+7. We will answer questions about the Queue in a seperate file.
+8. Everyone will record her progress in the Labreport (GoogleDoc).
 
 
 ###### MARKDOWN:
