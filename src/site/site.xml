@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 
-<project name="Maven" xmlns="http://maven.apache.org/POM/4.0.0" 
+<project name="Maven" xmlns="http://maven.apache.org/POM/4.0.0"
 		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
@@ -10,35 +10,35 @@
 	   <src>https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg</src>
 	  <href>https://maven.apache.org/</href>
   </bannerLeft>
-  
+
   <bannerRight>
   	<publishDate positon="right"/>
   	<version postion="right"/>
   </bannerRight>
-  
+
   <body>
 	  <menu name="Overview">
 		   <item name="Queue" href="https://github.com/DarleneAntonino/20-Abgabe2-Schlocker-Antonino-Graschl/blob/master/src/site/markdown/Queue.md"/>
 	  </menu>
-	  
+
 	  <links>
 		  <item name="Apache" href="http://www.apache.org"/>
          	  <item name="Maven" href="https://maven.apache.org"/>
 	  </links>
-	  
+
 	  <authors>
 		  <author>
-			<id>DarleneAntonino</id>
      	 	  	<name>Darlene Antonino</name>
-		  </author>
+						<item name="DarleneAntonino" href="https://github.com/DarleneAntonino"/>
+						 </author>
 		  <author>
-			<id>SarahGraschl</id>
 		   	<name>Sarah Graschl</name>
-		  </author>
+				<item name="SarahGraschl" href="https://github.com/SarahGraschl"/>
+			 </author>
 		  <author>
-			<id>ViolaSchlocker</id>
      		 	<name>Viola Schlocker</name>
-		  </author>
+					<item name="ViolaSchlocker" href="https://github.com/ViolaSchlocker"/>
+				</author>
 	  </authors>
   </body>
 </project>
