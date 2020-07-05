@@ -29,16 +29,16 @@
 	  <authors>
 		  <author>
      	 	  	<name>Darlene Antonino</name>
-						<item name="DarleneAntonino" href="https://github.com/DarleneAntonino"/>
-						 </author>
+			<item name="DarleneAntonino" href="https://github.com/DarleneAntonino"/>
+		  </author>
 		  <author>
 		   	<name>Sarah Graschl</name>
-				<item name="SarahGraschl" href="https://github.com/SarahGraschl"/>
-			 </author>
+			<item name="SarahGraschl" href="https://github.com/SarahGraschl"/>
+		  </author>
 		  <author>
      		 	<name>Viola Schlocker</name>
-					<item name="ViolaSchlocker" href="https://github.com/ViolaSchlocker"/>
-				</author>
+			<item name="ViolaSchlocker" href="https://github.com/ViolaSchlocker"/>
+		  </author>
 	  </authors>
   </body>
 </project>
