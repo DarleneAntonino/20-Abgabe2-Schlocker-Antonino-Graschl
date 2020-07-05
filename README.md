@@ -1,5 +1,5 @@
 # 20-Abgabe2-Schlocker-Antonino-Graschl
-This is our second submission for the lecture 'Kofigurationsmanagement'
+This is our second submission for the lecture 'Konfigurationsmanagement'
 
 1. Meeting to establishe, who is going to focus on what and how we will impliment it.
 2. Initialise Markdown (expanding as needed).
